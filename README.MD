@@ -1,4 +1,4 @@
-# Summer 2024 Training Backend Project
+# EnviroDataHub Project
 
 ## Overview
 
